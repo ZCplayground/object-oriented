@@ -3,8 +3,9 @@
 
 int main()
 {
-	Scan();
-	Display();
+	Circle c;
+	c.Scan();
+	c.Display();
 
 	system("pause");
 
